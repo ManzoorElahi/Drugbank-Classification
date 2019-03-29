@@ -34,7 +34,7 @@ Mechanism of action and Therapeutic class.
 
 ### Models
 
-SKLearn SVC, Keras NN and XGBoost are used the classification.
+SKLearn SVC, Keras NN and XGBoost are used for the classification.
 
 ### Python Code
 

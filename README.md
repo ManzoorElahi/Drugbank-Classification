@@ -13,9 +13,9 @@ https://www.drugbank.ca/about
 
 Parsing of Drugbank database using Python can be found in the below two links.
 
-https://github.com/dhimmel/drugbank
++ https://github.com/dhimmel/drugbank
 
-https://github.com/choderalab/nano-drugbank
++ https://github.com/choderalab/nano-drugbank
 
 ### Molecular Descriptors
 
@@ -61,6 +61,6 @@ Figure 2. <b> ROC-AUC</b> – Classification based on Therapeutic class.
 
 ### Citation
 
-Wishart DS, Feunang YD, Guo AC, Lo EJ, Marcu A, Grant JR, Sajed T, Johnson D, Li C, Sayeeda Z, Assempour N, Iynkkaran I, Liu Y, Maciejewski A, Gale N, Wilson A, Chin L, Cummings R, Le D, Pon A, Knox C, Wilson M. DrugBank 5.0: a major update to the DrugBank database for 2018. Nucleic Acids Res. 2017 Nov 8. doi: 10.1093/nar/gkx1037.
+1. Wishart DS, Feunang YD, Guo AC, Lo EJ, Marcu A, Grant JR, Sajed T, Johnson D, Li C, Sayeeda Z, Assempour N, Iynkkaran I, Liu Y, Maciejewski A, Gale N, Wilson A, Chin L, Cummings R, Le D, Pon A, Knox C, Wilson M. DrugBank 5.0: a major update to the DrugBank database for 2018. Nucleic Acids Res. 2017 Nov 8. doi: 10.1093/nar/gkx1037.
 
-Moriwaki H, Tian Y-S, Kawashita N, Takagi T (2018) Mordred: a molecular descriptor calculator. Journal of Cheminformatics 10:4 . doi: 10.1186/s13321-018-0258-y
+2. Moriwaki H, Tian Y-S, Kawashita N, Takagi T (2018) Mordred: a molecular descriptor calculator. Journal of Cheminformatics 10:4 . doi: 10.1186/s13321-018-0258-y

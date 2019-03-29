@@ -27,7 +27,7 @@ https://github.com/mordred-descriptor/mordred
 
 ### Classification
 
-Using NLTk module the drugs are classified in two ways:
+The drugs are classified in two ways:
 Mechanism of action and Therapeutic class
 
 

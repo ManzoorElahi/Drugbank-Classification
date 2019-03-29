@@ -52,7 +52,7 @@ Figure 1. <b>ROC-AUC</b> – Classification based on the Mechanism of Action.
 
 
 <p align="center">
-<img width="90%" src="images/therapeutic.png" />
+<img width="40%" src="images/therapeutic.png" />
 <br>
 Figure 2. <b> ROC-AUC</b> – Classification based on Therapeutic class.
 </p>

@@ -29,7 +29,7 @@ https://github.com/mordred-descriptor/mordred
 ### Classification
 
 The drugs are classified in two ways:
-Mechanism of action and Therapeutic class
+Mechanism of action and Therapeutic class.
 
 
 ### Models
